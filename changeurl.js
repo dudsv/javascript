@@ -1,0 +1,1 @@
+javascript:url = window.location.toString().replaceAll('webp', 'jpg');window.location=url;
